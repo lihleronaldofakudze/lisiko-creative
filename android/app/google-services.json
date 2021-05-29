@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717803973125",
+    "project_id": "lisiko-creative",
+    "storage_bucket": "lisiko-creative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717803973125:android:ba18712ec98ce8b4c4ca6c",
+        "android_client_info": {
+          "package_name": "io.cloutdevelopers.lisikocreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717803973125-2ktf4ck1bp6beshoe0sp7ugdjmlj30hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyA1LaUUIPY9wt2zSVT1otEW8y25EKb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717803973125-2ktf4ck1bp6beshoe0sp7ugdjmlj30hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
